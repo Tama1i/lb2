@@ -12,7 +12,8 @@ namespace ConsoleApp2
         static void Main(string[] args)
         {
             int c,a = 10, b = 5;
-            c = a + b;
+            c = a + b+1;
+            c += 1;
             Console.Write(c);
         }
     }
