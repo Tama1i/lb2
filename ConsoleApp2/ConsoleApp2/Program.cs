@@ -13,7 +13,7 @@ namespace ConsoleApp2
         {
             int c,a = 10, b = 5;
             c = a + b+1;
-            c +=7;
+            c +=8;
             Console.Write(c);
         }
     }
